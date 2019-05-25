@@ -7,5 +7,5 @@ def square_array(array)
     newArray.push(newNum)
     
   end 
-  
+  return newArray 
 end
