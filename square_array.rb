@@ -3,5 +3,9 @@ def square_array(array)
   newArray=[]
   
   array.each do |num|
+    newNum= num * num 
+    newArray.push(newNum)
     
+  end 
+  
 end
