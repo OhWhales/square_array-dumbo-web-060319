@@ -10,4 +10,5 @@ def square_array(array)
     newArray.push(newElement)
     counter = counter + 1 
   end 
+  return newArray 
 end
